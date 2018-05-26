@@ -1,5 +1,5 @@
 # JDD-Store-sales-forecast-competition
-201711JDDate
+2017JDDate
 
 1 data 
 2 cache 
