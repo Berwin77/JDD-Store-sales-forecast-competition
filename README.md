@@ -7,6 +7,10 @@
 
 2017年JDDate大赛代码
 
-.py文件中static是数据预处理
-.py文件中model是调用模型
-.py文件夹中train，test，vaild是将与处理后的数据切分成训练集，测试集和验证集
+1. .py文件中static是数据预处理
+
+
+2. .py文件中model是调用模型
+
+
+3. .py文件夹中train，test，vaild是将与处理后的数据切分成训练集，测试集和验证集
